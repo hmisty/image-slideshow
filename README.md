@@ -8,7 +8,7 @@ For super quick slideshow cooking:
 
 ----
 
-**Usage**:
+**Controls**:
 
 * Down / Right: next slider
 * Up / Left: previous slider
@@ -39,7 +39,7 @@ For super quick slideshow cooking:
 
 ----
 
-Copyright information:
+Copyright:
 
 * hmisty Evan Liu, (c) 2019, (http://blockcoach.com)
 * Dev: https://github.com/hmisty/py-slideshow
