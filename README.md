@@ -42,7 +42,7 @@ For super quick slideshow cooking:
 Copyright:
 
 * hmisty Evan Liu, (c) 2019, (http://blockcoach.com)
-* Dev: https://github.com/hmisty/py-slideshow
+* Dev: https://github.com/hmisty/image-slideshow
 * License: GNU GPLv3
 
 
