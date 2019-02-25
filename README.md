@@ -14,6 +14,7 @@ For super quick slideshow cooking:
 * Up / Left: previous slider
 * w: switch to white background
 * b: switch to black background
+* q: quit the slideshow
 
 ----
 
