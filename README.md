@@ -1,4 +1,4 @@
-# py-slideshow - image slideshow
+# image-slideshow - image slideshow
 
 Image slideshow in Python with OpenGL, controlled by arrow keys.
 
